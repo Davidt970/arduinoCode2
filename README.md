@@ -1,4 +1,4 @@
-//# arduinoCode2
+# arduinoCode2
 int shockSensorPin  = 2; //interruptpin 0
 boolean sleeping;
 int loopcounter = 0;
